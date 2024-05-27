@@ -2124,6 +2124,7 @@ ul {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
 /* End Responsive Contact */
 
 /* End Contact */
@@ -2232,6 +2233,7 @@ ul {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
 /* End Responsive input */
 
 /* End input */
@@ -2240,5 +2242,6 @@ ul {
   margin-bottom: -15px;
   border: none;
 }
+
 /* End maps */
 /* ============================== End Contact ============================== */
